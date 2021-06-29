@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/tezos.com",
     "slug": "tezos-com",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 157,
-    "timeWeek": 194,
+    "timeDay": 174,
+    "timeWeek": 190,
     "timeMonth": 208,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2021-06-28": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tezos Commons Website",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 232,
-    "timeWeek": 252,
-    "timeMonth": 280,
-    "timeYear": 279,
+    "time": 277,
+    "timeDay": 233,
+    "timeWeek": 253,
+    "timeMonth": 277,
+    "timeYear": 277,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 530,
-    "timeDay": 463,
-    "timeWeek": 529,
-    "timeMonth": 530,
-    "timeYear": 530,
+    "time": 528,
+    "timeDay": 456,
+    "timeWeek": 503,
+    "timeMonth": 524,
+    "timeYear": 528,
     "dailyMinutesDown": {}
   },
   {
@@ -67,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 288,
-    "timeWeek": 330,
-    "timeMonth": 317,
+    "timeDay": 330,
+    "timeWeek": 329,
+    "timeMonth": 318,
     "timeYear": 317,
     "dailyMinutesDown": {}
   },
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 676,
-    "timeDay": 686,
+    "timeDay": 685,
     "timeWeek": 672,
-    "timeMonth": 680,
+    "timeMonth": 682,
     "timeYear": 676,
     "dailyMinutesDown": {}
   }
