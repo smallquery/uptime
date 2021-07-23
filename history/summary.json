@@ -22,9 +22,9 @@
     "url": "https://tezoscommons.org",
     "icon": "https://favicons.githubusercontent.com/tezoscommons.org",
     "slug": "tezos-commons-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 329,
     "timeMonth": 332,
     "timeYear": 307,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-23": 0
+    }
   },
   {
     "name": "Tezos Agora Frontend",
