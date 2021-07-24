@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 273,
-    "timeDay": 207,
-    "timeWeek": 218,
-    "timeMonth": 322,
-    "timeYear": 273,
+    "time": 272,
+    "timeDay": 181,
+    "timeWeek": 214,
+    "timeMonth": 323,
+    "timeYear": 272,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/tezoscommons.org",
     "slug": "tezos-commons-website",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 308,
-    "timeDay": 378,
-    "timeWeek": 336,
-    "timeMonth": 333,
+    "timeDay": 326,
+    "timeWeek": 330,
+    "timeMonth": 332,
     "timeYear": 308,
-    "dailyMinutesDown": {
-      "2021-07-23": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tezos Agora Frontend",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 545,
-    "timeDay": 570,
-    "timeWeek": 614,
+    "time": 544,
+    "timeDay": 458,
+    "timeWeek": 606,
     "timeMonth": 555,
-    "timeYear": 545,
+    "timeYear": 544,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 330,
-    "timeDay": 407,
-    "timeWeek": 345,
-    "timeMonth": 340,
-    "timeYear": 330,
+    "time": 329,
+    "timeDay": 287,
+    "timeWeek": 338,
+    "timeMonth": 339,
+    "timeYear": 329,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +83,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 671,
-    "timeDay": 664,
-    "timeWeek": 644,
-    "timeMonth": 665,
+    "timeDay": 691,
+    "timeWeek": 646,
+    "timeMonth": 668,
     "timeYear": 671,
     "dailyMinutesDown": {}
   }
