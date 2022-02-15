@@ -62,9 +62,9 @@
     "url": "https://forum.tezosagora.org",
     "icon": "https://favicons.githubusercontent.com/forum.tezosagora.org",
     "slug": "tezos-agora-backend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -74,6 +74,7 @@
     "timeMonth": 402,
     "timeYear": 413,
     "dailyMinutesDown": {
+      "2022-02-15": 0,
       "2021-12-25": 16,
       "2021-12-02": 28,
       "2021-07-28": 37
