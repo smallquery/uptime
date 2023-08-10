@@ -11,9 +11,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 267,
-    "timeDay": 176,
-    "timeWeek": 148,
-    "timeMonth": 209,
+    "timeDay": 250,
+    "timeWeek": 164,
+    "timeMonth": 210,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2023-07-10": 40
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 453,
-    "timeDay": 246,
+    "timeDay": 326,
     "timeWeek": 300,
-    "timeMonth": 295,
-    "timeYear": 447,
+    "timeMonth": 300,
+    "timeYear": 446,
     "dailyMinutesDown": {}
   },
   {
@@ -48,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 619,
-    "timeDay": 405,
-    "timeWeek": 545,
-    "timeMonth": 587,
+    "time": 620,
+    "timeDay": 692,
+    "timeWeek": 563,
+    "timeMonth": 589,
     "timeYear": 609,
     "dailyMinutesDown": {}
   },
@@ -67,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 391,
-    "timeDay": 286,
-    "timeWeek": 257,
+    "timeDay": 416,
+    "timeWeek": 295,
     "timeMonth": 335,
     "timeYear": 382,
     "dailyMinutesDown": {
@@ -84,17 +84,15 @@
     "slug": "tz-kt-io",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 652,
-    "timeDay": 656,
-    "timeWeek": 565,
-    "timeMonth": 606,
+    "timeDay": 730,
+    "timeWeek": 590,
+    "timeMonth": 610,
     "timeYear": 646,
-    "dailyMinutesDown": {
-      "2023-08-09": 9
-    }
+    "dailyMinutesDown": {}
   }
 ]
