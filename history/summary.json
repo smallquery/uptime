@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 271,
-    "timeDay": 166,
-    "timeWeek": 325,
-    "timeMonth": 317,
+    "timeDay": 252,
+    "timeWeek": 345,
+    "timeMonth": 308,
     "timeYear": 260,
     "dailyMinutesDown": {
       "2023-07-10": 40
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 362,
-    "timeDay": 243,
-    "timeWeek": 269,
-    "timeMonth": 294,
-    "timeYear": 286,
+    "timeDay": 319,
+    "timeWeek": 271,
+    "timeMonth": 292,
+    "timeYear": 287,
     "dailyMinutesDown": {
       "2023-10-30": 28
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 611,
-    "timeDay": 609,
-    "timeWeek": 583,
-    "timeMonth": 621,
+    "timeDay": 401,
+    "timeWeek": 564,
+    "timeMonth": 614,
     "timeYear": 615,
     "dailyMinutesDown": {}
   },
@@ -64,14 +64,14 @@
     "slug": "tezos-agora-backend",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.75%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 390,
-    "timeDay": 292,
+    "time": 389,
+    "timeDay": 325,
     "timeWeek": 474,
-    "timeMonth": 406,
+    "timeMonth": 404,
     "timeYear": 374,
     "dailyMinutesDown": {
       "2024-02-28": 18,
@@ -90,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 664,
-    "timeDay": 563,
-    "timeWeek": 673,
-    "timeMonth": 637,
+    "timeDay": 459,
+    "timeWeek": 658,
+    "timeMonth": 633,
     "timeYear": 669,
     "dailyMinutesDown": {}
   }
