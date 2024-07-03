@@ -1,7 +1,7 @@
 url: https://forum.tezosagora.org
-status: up
-code: 200
-responseTime: 383
-lastUpdated: 2024-07-02T23:10:45.239Z
+status: down
+code: 502
+responseTime: 228
+lastUpdated: 2024-07-03T21:44:26.411Z
 startTime: 2021-05-27T18:23:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
