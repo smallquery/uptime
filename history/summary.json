@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 255,
-    "timeDay": 387,
-    "timeWeek": 306,
-    "timeMonth": 227,
-    "timeYear": 245,
-    "dailyMinutesDown": {
-      "2023-07-10": 40
-    }
+    "timeDay": 465,
+    "timeWeek": 338,
+    "timeMonth": 238,
+    "timeYear": 246,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Tezos Commons Website",
@@ -31,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 295,
-    "timeDay": 316,
-    "timeWeek": 351,
-    "timeMonth": 338,
+    "timeDay": 350,
+    "timeWeek": 346,
+    "timeMonth": 340,
     "timeYear": 299,
     "dailyMinutesDown": {
       "2023-10-30": 28
@@ -50,10 +48,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 621,
-    "timeDay": 787,
-    "timeWeek": 626,
-    "timeMonth": 651,
+    "time": 622,
+    "timeDay": 715,
+    "timeWeek": 630,
+    "timeMonth": 649,
     "timeYear": 622,
     "dailyMinutesDown": {}
   },
@@ -69,10 +67,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.98%",
     "time": 381,
-    "timeDay": 264,
-    "timeWeek": 343,
-    "timeMonth": 361,
-    "timeYear": 385,
+    "timeDay": 342,
+    "timeWeek": 347,
+    "timeMonth": 353,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2024-07-03": 72,
       "2024-05-19": 24,
@@ -91,10 +89,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 669,
-    "timeDay": 734,
-    "timeWeek": 696,
-    "timeMonth": 676,
-    "timeYear": 667,
+    "timeDay": 766,
+    "timeWeek": 727,
+    "timeMonth": 675,
+    "timeYear": 668,
     "dailyMinutesDown": {}
   }
 ]
