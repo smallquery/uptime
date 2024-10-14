@@ -32,7 +32,7 @@
     "timeDay": 395,
     "timeWeek": 431,
     "timeMonth": 398,
-    "timeYear": 323,
+    "timeYear": 324,
     "dailyMinutesDown": {
       "2023-10-30": 28
     }
@@ -87,17 +87,19 @@
     "url": "https://tzkt.io",
     "icon": "https://icons.duckduckgo.com/ip3/tzkt.io.ico",
     "slug": "tz-kt-io",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 678,
-    "timeDay": 664,
-    "timeWeek": 703,
-    "timeMonth": 689,
-    "timeYear": 674,
-    "dailyMinutesDown": {}
+    "time": 679,
+    "timeDay": 804,
+    "timeWeek": 733,
+    "timeMonth": 697,
+    "timeYear": 675,
+    "dailyMinutesDown": {
+      "2024-10-14": 0
+    }
   }
 ]
