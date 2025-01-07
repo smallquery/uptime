@@ -22,18 +22,20 @@
     "url": "https://tezoscommons.org",
     "icon": "https://icons.duckduckgo.com/ip3/tezoscommons.org.ico",
     "slug": "tezos-commons-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 323,
-    "timeWeek": 346,
-    "timeMonth": 363,
-    "timeYear": 345,
-    "dailyMinutesDown": {}
+    "time": 335,
+    "timeDay": 1896,
+    "timeWeek": 736,
+    "timeMonth": 460,
+    "timeYear": 354,
+    "dailyMinutesDown": {
+      "2025-01-07": 0
+    }
   },
   {
     "name": "Tezos Agora Frontend",
