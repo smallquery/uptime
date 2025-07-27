@@ -22,18 +22,19 @@
     "url": "https://tezoscommons.org",
     "icon": "https://icons.duckduckgo.com/ip3/tezoscommons.org.ico",
     "slug": "tezos-commons-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 370,
+    "time": 371,
     "timeDay": 418,
     "timeWeek": 347,
     "timeMonth": 372,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2025-07-27": 0,
       "2025-06-12": 124
     }
   },
