@@ -45,9 +45,9 @@
     "url": "https://tezosagora.org",
     "icon": "https://icons.duckduckgo.com/ip3/tezosagora.org.ico",
     "slug": "tezos-agora-frontend",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +56,9 @@
     "timeWeek": 530,
     "timeMonth": 484,
     "timeYear": 676,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-03": 0
+    }
   },
   {
     "name": "Tezos Agora Backend",
