@@ -91,19 +91,19 @@
     "url": "https://tzkt.io",
     "icon": "https://icons.duckduckgo.com/ip3/tzkt.io.ico",
     "slug": "tz-kt-io",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "97.35%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "96.75%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.99%",
-    "time": 735,
-    "timeDay": 5699,
-    "timeWeek": 2149,
-    "timeMonth": 1029,
-    "timeYear": 738,
+    "time": 742,
+    "timeDay": 5165,
+    "timeWeek": 2393,
+    "timeMonth": 1125,
+    "timeYear": 747,
     "dailyMinutesDown": {
-      "2026-01-25": 38
+      "2026-01-25": 47
     }
   }
 ]
